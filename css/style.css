@@ -1,0 +1,56 @@
+body {
+    background-color: #d5ebfd;
+}
+
+section {
+    margin-top: 0px auto;
+
+}
+
+/* configuração da página */
+.cadnumint {
+    width: 300px;
+    margin: 0px auto;
+    font-weight: bold;
+    margin-bottom: 10px;
+    background-color: #91cdff;
+    border-radius: 20px;
+    color: #2e2e2e;
+
+}
+
+.cadnumint input,
+.cadnumint select,
+.cadnumint resultado {
+    margin: 5px auto;
+    width: 100%;
+    padding: 5px 0;
+    border-radius: 8px;
+
+}
+
+.cadnumint button {
+    width: 30%;
+    margin: 0 30px;
+    background-color: #c3e0f8;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 4px 0px;
+}
+
+.cadnumint button:hover {
+    background-color: #91cdff;
+    color: #ffffff;
+}
+
+label {
+    float: left;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size: 50px;
+}
